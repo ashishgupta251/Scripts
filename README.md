@@ -1,7 +1,7 @@
 # 🧰 Scripts
 
 <p align="center">
-  <img src="BANNER_URL_HERE" alt="Scripts Banner">
+  <img src="src/banner.png" alt="Scripts Banner">
 </p>
 
 <p align="center">
