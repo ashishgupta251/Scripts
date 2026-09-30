@@ -38,13 +38,13 @@ A Bash script for resetting a wireless network interface and restarting NetworkM
 Make the script executable:
 
 ```bash
-chmod +x wireless-fixer.sh
+chmod +x Network_Restart.sh
 ```
 
 Run the script:
 
 ```bash
-sudo ./wireless-fixer.sh
+sudo ./Network_Restart.sh
 ```
 
 > ⚠️ Always understand a script before executing it, especially when it requires root privileges or modifies system settings.
